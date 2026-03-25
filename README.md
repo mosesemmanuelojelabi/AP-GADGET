@@ -1,2 +1,87 @@
-# AP-GADGET
-AP GADGET is a registered business owned by Moses Emmanuel Ojelabi, based in Ogbomoso, Oyo State, Nigeria. We specialize in the sale of quality phones, accessories, and gadgets, offering reliable services, affordable prices, and excellent customer support, ensuring satisfaction, trust, and value.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AP GADGET Certificate</title>
+
+<style>
+body {
+    font-family: "Times New Roman", serif;
+    background: #f5f5f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.certificate {
+    width: 800px;
+    padding: 40px;
+    background: white;
+    border: 10px solid #0a1f44;
+    text-align: center;
+}
+
+h1 {
+    color: #0a1f44;
+    font-size: 40px;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.signature {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.line {
+    border-top: 1px solid black;
+    width: 200px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="certificate">
+    <h1>AP GADGET</h1>
+    <h2>Business Certificate</h2>
+
+    <p>This is to certify that</p>
+
+    <h2><strong>AP GADGET</strong></h2>
+
+    <p>
+        Located at Adewole Compound, Ogbomoso, Oyo State, Nigeria,
+        is a legally recognized business engaged in the sales of mobile phones,
+        accessories, and electronic gadgets.
+    </p>
+
+    <p>
+        This business operates with integrity, professionalism, and commitment
+        to quality service and customer satisfaction.
+    </p>
+
+    <div class="signature">
+        <div>
+            <div class="line"></div>
+            <p>Owner</p>
+        </div>
+        <div>
+            <div class="line"></div>
+            <p>Date</p>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
